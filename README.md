@@ -23,10 +23,7 @@ This project demonstrates the risks of SQL Injection attacks and provides soluti
 - **Server:** Apache Tomcat  
 - **Database:** MySQL  
 
-### Setup Instructions  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/SQL-Injection-Prevention-JavaEE.git
+
 
 
 
